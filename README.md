@@ -31,22 +31,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="895" alt="Screenshot 2025-05-24 031645" src="https://github.com/user-attachments/assets/49d01dc6-4d6d-4c01-bd9d-b414579f8c15" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+The customer reports that the online banking system is currently inaccessible. They are unable to log in or perform any transactions through the web portal or mobile app. This can happen by server or data center outage, scheduled maintenance, or configuartion errors and many more reasons these are just a few. For this lab the reason why online banking systems are down is because a new update was configured but it seems like it was corrupted </p>
 <br />
 
 <p>
 <img width="918" alt="Screenshot 2025-05-24 031705" src="https://github.com/user-attachments/assets/720c16b6-fb61-46d7-911a-ada0842b1d46" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Say for example an agent was to work on this they would proceed by accessing the situation, isolating the problem then restoring the system using the most recent verefied full backup. If automated rollback tools fail, perform manual restoration of critical components (databases, services, configurations) following documented procedures. Keep stakeholders and users informed about progress and expected resolution times. Validate that the system functions correctly in a controlled environment before going live. Analyze the root cause to improve rollback procedures, backup strategies, and update testing.
+
+
+
+
+
+ </p>
 <br />
 
 <p>
 <img width="916" alt="Screenshot 2025-05-24 031616" src="https://github.com/user-attachments/assets/02df891b-8919-47e6-8d01-532a7ed2a12d" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Ticket was then completed. This approach aims to safely recover service while minimzing risk and downtime.</p>
 <br />
